@@ -1,4 +1,5 @@
-name: NFCLanders Android APK
+name: Android SDK
+uses: android-actions/setup-android@v4name: NFCLanders Android APK
 
 on:
   push:
